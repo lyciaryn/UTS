@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Task Manager (NIM 190)</string>
+    <string name="login_title_190">Masuk Akun</string>
+    <string name="register_title_190">Daftar Akun Baru</string>
+    <string name="username_hint_190">Username</string>
+    <string name="password_hint_190">Password</string>
+    <string name="confirm_password_hint_190">Konfirmasi Password</string>
+    <string name="btn_login_190">Login</string>
+    <string name="btn_register_190">Register</string>
+    <string name="dont_have_account_190">Belum punya akun? Daftar sekarang</string>
+    <string name="already_have_account_190">Sudah punya akun? Login di sini</string>
+    <string name="dashboard_title_190">Dashboard Tugas</string>
+    <string name="welcome_user_190">Halo, %1$s!</string>
+    <string name="search_hint_190">Cari nama tugas...</string>
+    <string name="total_tasks_190">Total Tugas</string>
+    <string name="completed_tasks_190">Selesai</string>
+    <string name="pending_tasks_190">Belum Selesai</string>
+    <string name="high_priority_tasks_190">Prioritas Tinggi</string>
+    <string name="add_task_190">Tambah Tugas Baru</string>
+    <string name="edit_task_190">Edit Tugas</string>
+    <string name="task_name_hint_190">Nama Tugas</string>
+    <string name="priority_hint_190">Pilih Prioritas</string>
+    <string name="deadline_hint_190">Pilih Tanggal Deadline</string>
+    <string name="save_190">Simpan</string>
+    <string name="update_190">Update</string>
+    <string name="delete_190">Hapus</string>
+    <string name="cancel_190">Batal</string>
+    <string name="logout_190">Logout</string>
+    <string name="empty_task_list_190">Belum ada tugas. Klik tombol + untuk menambah tugas baru!</string>
+</resources>
